@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap&subset=cyrillic');
+@import url('core.css');
+@import url('blocks/header.css');
+@import url('blocks/preim.css');
+@import url('blocks/bottom.css');
+@import url('blocks/price.css');
+@import url('animate.css');
